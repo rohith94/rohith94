@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hey there 👋 I'm Rohith.</h2>
+### Hey there 👋 I'm Rohith.
 
-<h3> 👨🏻‍💻 About Me </h3>
+### 👨🏻‍💻 About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studied **Information Science and Engineering** at *R V College Of Engineering*.
@@ -27,15 +27,13 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; Learning more about React, Spring, Systems Design and Good Ethics.
 - ⚡ &nbsp; Pursuing *Numismatics* as hobbies/side hustles.
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 
 - 💻 &nbsp;  Java | C++ | C
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Git | Markdown | Ansible 
-
 <br/>
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
