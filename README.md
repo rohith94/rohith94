@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;  Java | C++ | C
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 - 🛢 &nbsp; MySQL 
 - 🔧 &nbsp; Git | Markdown | Ansible 
 
