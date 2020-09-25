@@ -1,4 +1,6 @@
+<!--
 ### Hi there 👋
+-->
 
 <!--
 **rohith94/rohith94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hey there! I'm Rohith.</h2>
+<h2> Hey there 👋 I'm Rohith.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studied Information Science and Engineering at R V College Of Engineering.
-- 💼 &nbsp; Working as a Principal Software Developer at Perfios Software Solutions Pvt Ltd.
+- 🎓 &nbsp; Studied **Information Science and Engineering** at *R V College Of Engineering*.
+- 💼 &nbsp; Working as a **Principal Software Developer** at *Perfios Software Solutions Pvt Ltd*.
 - 🌱 &nbsp; Learning more about React, Spring, Systems Design and Good Ethics.
-- ⚡ &nbsp; Pursuing Numismatics as hobbies/side hustles.
+- ⚡ &nbsp; Pursuing *Numismatics* as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
