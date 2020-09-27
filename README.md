@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.mrohith.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mrohith.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/rohithmahesh/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rohith%20M-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/rohith_m94/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rohith_m94-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.mrohith.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.mrohith.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/rohithmahesh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Rohith%20M-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/rohith_m94/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rohith_m94-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:rohith.m94@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rohith.m94@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
