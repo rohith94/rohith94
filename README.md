@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 </p>
 
 <!-- ⭐️ From [rohith94](https://github.com/rohith94) --!>
-
+<br/>
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
